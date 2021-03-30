@@ -2,14 +2,14 @@
   "folder": [
     {
       "anime": "haikyuu",
-      "path": "/haikyuu",
+      "path": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/",
       "cover": "",
       "list_song": [
         {
           "file_name": "[OSTnime] SPYAIR - I'm A Believer.MP3",
           "title": "SPYAIR",
           "Artist": "I'm A Believer",
-          "path": "/haikyuu/[OSTnime] SPYAIR - I'm A Believer.MP3"
+          "path": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/[OSTnime] SPYAIR - I'm A Believer.MP3"
         }
       ]
     }
