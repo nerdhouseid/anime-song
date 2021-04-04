@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "songid": 20583001,
+      "file_name": "BURNOUT_SYNDROMES_FLY_HIGH!!.mp3",
+      "title": "FLY_HIGH!!",
+      "type": "song",
+      "author": "BURNOUT SYNDROMES",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/BURNOUT_SYNDROMES_FLY_HIGH!!.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583002,
+      "file_name": "Galileo Galilei_Climber.mp3",
+      "title": "Climber",
+      "type": "song",
+      "author": "Galileo Galilei",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/Galileo Galilei_Climber.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583003,
+      "file_name": "SPYAIR_I'm A Believer.mp3",
+      "title": "I'm A Believer",
+      "type": "song",
+      "author": "SPYAIR",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/SPYAIR_I'm A Believer.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583004,
+      "file_name": "tacica_Hatsunetsu.mp3",
+      "title": "Hatsunetsu",
+      "type": "song",
+      "author": "tacica",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/tacica_Hatsunetsu.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    }
+  ]
+}
