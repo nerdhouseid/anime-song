@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "songid": 20583001,
+      "file_name": "[OSTnime] SPYAIR - I'm A Believer.MP3",
+      "title": "SPYAIR",
+      "type": "song",
+      "author": "I'm A Believer",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/[OSTnime] SPYAIR - I'm A Believer.MP3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    }
+  ]
+}

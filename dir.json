@@ -1,17 +1,22 @@
 {
   "folder": [
     {
-      "anime": "haikyuu",
-      "path": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/",
-      "cover": "",
-      "list_song": [
-        {
-          "file_name": "[OSTnime] SPYAIR - I'm A Believer.MP3",
-          "title": "SPYAIR",
-          "Artist": "I'm A Believer",
-          "path": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu/[OSTnime] SPYAIR - I'm A Believer.MP3"
-        }
-      ]
+      "title": "Haikyuu Season 1",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu-s1/dir.json",
+      "coverUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+      "id" : "20583"
+    },
+    {
+      "title": "Haikyuu Season 2",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu-s2/dir.json",
+      "coverUrl": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+      "id" : "28891"
+    },
+    {
+      "title": "Haikyuu Season 3",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu-s3/dir.json",
+      "coverUrl": "https://cdn.myanimelist.net/images/anime/7/81992.jpg",
+      "id" : "32935"
     }
   ]
 }
