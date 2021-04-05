@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "songid": 20583009,
+      "file_name": "[OSTnime] BURNOUT SYNDROMES - Hikari Are.MP3",
+      "title": "Hikari Are",
+      "type": "song",
+      "author": "BURNOUT SYNDROMES",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu-s3/[OSTnime] BURNOUT SYNDROMES - Hikari Are.MP3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583010,
+      "file_name": "[OSTnime] NICO Touches the Walls - Mashi Mashi.MP3",
+      "title": "Mashi Mashi",
+      "type": "song",
+      "author": "NICO Touches the Walls",
+      "url": "https://cdn.jsdelivr.net/gh/nerdhouseid/anime-song/haikyuu-s3/[OSTnime] NICO Touches the Walls - Mashi Mashi.MP3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    }
+  ]
+}
