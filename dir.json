@@ -17,6 +17,12 @@
       "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s3/dir.json",
       "coverUrl": "https://cdn.myanimelist.net/images/anime/7/81992.jpg",
       "id" : "32935"
+    },
+    {
+      "title": "Haikyuu Season 4",
+      "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s4/dir.json",
+      "coverUrl": "https://cdn.myanimelist.net/images/anime/1813/105367.jpg",
+      "id" : "38883"
     }
   ]
 }

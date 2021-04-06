@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "songid": 20583011,
+      "file_name": "PHOENIX.mp3",
+      "title": "PHOENIX",
+      "type": "song",
+      "author": "BURNOUT SYNDROMES",
+      "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s4/PHOENIX.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583012,
+      "file_name": "Kessen_Spirit.mp3",
+      "title": "Kessen Spirit (決戦スピリット)",
+      "type": "song",
+      "author": "CHiCO with HoneyWorks",
+      "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s4/Kessen_Spirit.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583013,
+      "file_name": "Toppakou_Super_Beaver.mp3",
+      "title": "Toppakou (突破口)",
+      "type": "song",
+      "author": "SUPER BEAVER",
+      "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s4/Toppakou_Super_Beaver.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    },
+    {
+      "songid": 20583014,
+      "file_name": "01.One_Day.mp3",
+      "title": "One Day",
+      "type": "song",
+      "author": "SPYAIR",
+      "url": "https://raw.githubusercontent.com/nerdhouseid/anime-song/main/haikyuu-s4/01.One_Day.mp3",
+      "lrc": null,
+      "pic": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    }
+  ]
+}
